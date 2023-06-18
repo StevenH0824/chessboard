@@ -9,3 +9,7 @@ Was pretty simple to create but it has no interaction at all with the user at al
 Updated: 06/18/23 17:23
 Made the webpage look more presentable as a whole. It looks exactly like a
 chess board. It just needs the pieces and than a button to play the game. 
+
+Credit to Colorhunt and Google Font
+https://colorhunt.co/palette/a9907ef3debaabc4aa675d50
+https://fonts.google.com/?preview.text=Chess%20Board&preview.text_type=custom
