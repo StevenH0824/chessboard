@@ -1,3 +1,87 @@
+/*
+A9907E
+F3DEBA
+ABC4AA
+675D50
+https://colorhunt.co/palette/a9907ef3debaabc4aa675d50
+*/
+
 body{
-    background-color: aliceblue;
+    background-color: #A9907E;
+    max-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    /* */
+    display: flex;
+    flex-direction: column;
 }
+
+/* Working on the header */
+.header{
+    background-color: #675D50;
+    color: #F3DEBA;
+    display:flex;
+    flex: none;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header-title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Playfair Display','Times New Roman', Times, serif;
+    display: flex;
+    flex: 2 0 auto;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #F3DEBA;
+}
+
+.header-links{
+    font-size: 16px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px;
+    gap: 20px;
+}
+
+.main-Container{
+    border: 2px solid #A9907E;
+    border-radius: 10px;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column{
+    display: flex;
+    flex: auto;
+}
+
+.grid{
+    display: flex;
+    flex: auto;
+}
+
+footer{
+    background-color: #675D50;
+    color: #F3DEBA;
+    font-family: 'Playfair Display','Times New Roman', Times, serif;
+    display: flex;
+    flex: none;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 10px;
+}
+
